@@ -1,3 +1,3 @@
-# Jetlife-Design
+#The Sandobx
 
-This program is simply a preliminary assessment of my programming skills working with HTML and CSS. It is a tribute page dedicated to a young lady named Elise Herenton.
+This is a collection of projects and various programs that I've completed so far while pursing a degree in Computer Science.
