@@ -1,6 +1,4 @@
 //Del'Juan Jackson
-//Homework 6 -- Table of Numbers
-//Intro to C++
 
 
 #include <iostream>
